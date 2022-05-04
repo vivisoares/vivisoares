@@ -5,7 +5,7 @@
 
 - I'm a Web Developer Technician gratuated from State's Technical School - ETEC.
 - Técnica em Desenvolvimento para Web pela Escola Técnica do Estado de São Paulo - ETEC.
-- Currently Sofware Engineer Development student on [< Laboratoria BR >](https://www.laboratoria.la/br) 
+- Sofware Engineer Development student on [< Laboratoria BR >](https://www.laboratoria.la/br) 
 - Estudante de Desenvolvimento de Softwares pela [< Laboratoria BR >](https://www.laboratoria.la/br) 
 - Learning React, JavaScript5, HTML5 and CSS3.
 - Aprendendo React, JavaScript5, HTML5 e CSS3.
