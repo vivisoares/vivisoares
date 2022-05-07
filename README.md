@@ -16,7 +16,7 @@
   <a href="https://github.com/vivisoares">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vivisoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivisoares&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
+</div>
 
 <div style="display: inline_block; margin-top: 0.6em;" ><br>
   <img align="center" alt="Vivis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
